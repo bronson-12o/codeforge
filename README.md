@@ -1,33 +1,5 @@
 # CodeForge
 
-Practice with executable code and evidence of learning.
-
-## The problem
-
-Finishing a lesson is different from solving a fresh problem. CodeForge separates practice, help, first attempts and delayed review while letting learners run supported exercises in the browser.
-
-## How it works
-
-![Simplified project architecture](docs/presentation/system-overview.svg)
-
-The diagram summarizes the documented workflow; it is not a performance result or a generated application screenshot.
-
-## Run or inspect the work
-
-[View the application](https://codeforge-practice.bronsonohatch.chatgpt.site) · [Inspect the selected source example](examples/family-exposure.mjs). The application currently requires an authorized account.
-
-## Evidence and scope
-
-The November 2026 audit exercised the local Python, SQL, TypeScript, JavaScript and preview runtimes through 786 reference executions. The private source package later received a portable build configuration fix. These checks do not certify a learner's professional proficiency.
-
-This is a public case study and selected excerpt, not the full curriculum or account backend. The application link is owner-private; anonymous visitors cannot try it. Browser exercises are not executed as learner code on the application server.
-
-<details>
-
-<summary>Detailed setup, original screenshots and project reference</summary>
-
-# CodeForge
-
 An installable coding learning app with browser execution, spaced review, and private progress synchronization.
 
 I built CodeForge to connect short lessons with actual attempts: read a small example, predict behavior, write or fix code, then explain what happened. Learning evidence stays separate from XP and repeated practice.
@@ -66,4 +38,4 @@ Original application/course content is combined with separately licensed runtime
 
 [Use and attribution](USE-AND-ATTRIBUTION.md).
 
-</details>
+![Project structure](docs/presentation/system-overview.svg)
